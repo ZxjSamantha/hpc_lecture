@@ -1,5 +1,5 @@
 #include <cstdio>
-
+// Test for submission
 int main() {
   int n = 10;
   double dx = 1. / n;
